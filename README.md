@@ -2,4 +2,4 @@
 
 
 
-![image](https://github.com/ngLiaXL/CopyMosaicView/blob/master/record.mp4)   
+![image](https://github.com/ngLiaXL/CopyMosaicView/blob/master/record.gif)
